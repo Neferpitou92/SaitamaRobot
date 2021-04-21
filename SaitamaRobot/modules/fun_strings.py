@@ -17,6 +17,8 @@ RUN_STRINGS = (
     "Hasta la vista, baby.",
     "Ah, what a waste. I liked that one.",
     "As The Doctor would say... RUN!",
+    "Today is Bargain day at the supermarket!!!",
+
 )
 
 GIFS = [
@@ -142,6 +144,34 @@ SLAP_TEMPLATES = (
     "@NeoTheKitty scratches {user2}",  # Pixels pet cat - @NeoTheKitty
     "Majin buu ate {user2}",  # Dbz
     "Goblin slayer slays {user2}",  # Goblin Slayer
+    “{USER1} went Bankai blasting {USER2} away with their spiritual pressure.",
+    "Why would I hit my friend {USER2}?",
+    "{USER2} had their pantsu stolen and sold at an auction",
+    "{USER1} tried to slap {User2} but they were protected by the police",
+    "{USER2}, we have you surrounded. Give up now and no one gets hurt.",
+    "{USER1} called the cops on {USER2} but they did nothing",
+    "{USER1} called the cops on {USER2} and got them arrested.",
+    "{USER1} tried calling the cops on {USER2} but the power was out.",
+    "The neighbours called the cops on {USER2} and their party was stoppped.",
+    "{User1} tried to slap {USER2} but it was just a corpse.",
+    "{USER2} was bitten by a mosquito.",
+    "{USER2} turned the tables on {USER1} and counterslapped.",
+    "{USER1} danced the voodoo dance outside {USER2}’s house.",
+    "{USER1} slapped {USER2} into a Sawada.",
+    "Neferpitou used {USER2} as a puppet.",
+    "Neferpitou beheaded {USER2} and sat under a tree holding the head.",
+    "Oh crap its Gon. Run {USER2}",
+    "{USER1} tried the slap command. Nothing happened.",
+    "{USER2} was slapped by {USER1}. {USER1} was disapointed.",
+    "{USER2} was stranded on a deserted island.",
+    "{USER2} died and went to heaven. {USER1} lived but went to jail.",
+    "Hey everyone, {USER2} forgot to wear their underwear today.",
+    "Majin Buu turns {USER2} into chocolate. Anyone hungry?",
+    "Sawada’s waifu is here looking for Swada but mistook {USER2} fir Sawada.",
+    "{USER2} had their Bankai stolen by a Quincy.",
+    "{USER1} tried to {THROWS} {USER2} with a {ITEM} but misses.",
+    "{User2} is tricked into joining the army.",
+
 )
 
 PAT_TEMPLATES = (
@@ -221,6 +251,26 @@ ITEMS = (
     "Kubikiribōchō",
     "rasengan",
     "spherical flying kat",
+    "Granadilla”,
+    "Banana”,
+    "Shrek”,
+    "Gundam”,
+    "Exploding watermelon”,
+    "Donkey”,
+    "Electric razor”,
+    "Bulldozer”,
+    "Obsolete meme”,
+    "Runaway child”,
+    "Santa's Sleigh”,
+    "Tractor Tyre”,
+    "Elastic band”,
+    "Dragonball”,
+    "Zangetsu”,
+    "Ryuumon Hyouzikimaru",
+    "Panda”,
+    "Kettle”,
+
+
 )
 
 THROW = (
